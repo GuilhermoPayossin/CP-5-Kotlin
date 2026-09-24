@@ -8,6 +8,17 @@
 
 Aplicativo Android de lista de tarefas (to-do list) desenvolvido como projeto didático para a disciplina de Sistemas de Informação da FIAP. Construído com **Kotlin**, **Jetpack Compose** e **Room**, seguindo o padrão arquitetural **MVVM**.
 
+## Prints de execução
+
+<img width="392" height="876" alt="image" src="https://github.com/user-attachments/assets/3a9c964f-29a0-4774-b371-1cd93e64dc82" />
+<img width="393" height="873" alt="image" src="https://github.com/user-attachments/assets/ed4ffd4d-f28f-4043-8a10-ae983338fd4a" />
+
+# Após cancelamento
+<img width="394" height="873" alt="image" src="https://github.com/user-attachments/assets/d97c535a-94d6-4ae4-a673-c3844b451c4b" />
+
+# Após confirmação
+<img width="390" height="873" alt="image" src="https://github.com/user-attachments/assets/23ea1e54-88a8-4c13-83d5-90b6a0438d7b" />
+
 ## Funcionalidades
 
 - Criar, editar e excluir tarefas
