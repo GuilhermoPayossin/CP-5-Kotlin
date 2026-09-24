@@ -64,7 +64,7 @@ Uma explicação detalhada e comparada da arquitetura (MVC, MVP, MVI e MVVM), co
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/carreiras/fiap-to-do-list.git
+   git clone https://github.com/GuilhermoPayossin/CP-5-Kotlin.git
    ```
 2. Abra a pasta do projeto no Android Studio e aguarde a sincronização do Gradle.
 3. Selecione um emulador ou conecte um dispositivo físico.
@@ -91,10 +91,6 @@ O app tem duas telas, conectadas via Navigation Compose e compartilhando a mesma
 
 - **Lista de tarefas** — tela inicial, exibe todas as tarefas ordenadas por prazo.
 - **Formulário** — criação/edição de uma tarefa, incluindo seleção opcional de data e horário.
-
-## Autor
-
-Ewerton Carreira
 
 ## Licença
 
